@@ -1,0 +1,29 @@
+h1{text-align: center;
+    color: blanchedalmond;
+    background-color: rgb(23, 0, 117);}
+    html{background-image: url(https://redepara.com.br/imagens/galeria/118804/thumbs/25c22e47a2394458bc29f3c17dd23a02.png);
+        background-repeat: no-repeat;
+background-size: cover;}
+        
+    .imagem{ width: 330px;
+    height: 230px;
+background-color: blue;}
+    .lis{display: flex;
+    flex-direction: inherit;
+    max-width: 800%;
+            overflow-x: scroll;
+            margin: 0 auto;
+}
+#aa{border: 15px solid rgb(0, 0, 0);}
+#bb{border: 15px solid rgb(0, 0, 0);}
+#cc{border: 15px solid rgb(0, 0, 0);}
+#dd{border: 15px solid rgb(0, 0, 0);}
+#ee{border: 15px solid rgb(0, 0, 0);}
+#ff{border: 15px solid rgb(0, 0, 0);}
+#gg{border: 15px solid rgb(0, 0, 0);}
+#hh{border: 15px solid rgb(0, 0, 0);}
+#kk{border: 15px solid rgb(0, 0, 0);}
+#ii{border: 15px solid rgb(0, 0, 0);}
+#jj{border: 15px solid rgb(0, 0, 0);}
+p{background-color: rgb(122, 119, 116);}
+a{background-color: rgb(4, 1, 38);}
